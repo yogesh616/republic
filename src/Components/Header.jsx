@@ -43,7 +43,7 @@ import BingX from "../FinanceImages/BingX.png";
 import Bitget from "../FinanceImages/Bitget.png";
 import Weex from "../FinanceImages/Weex.png";
 import Bitvavo from "../FinanceImages/Bitvavo.png";
-import OxBroker from "../FinanceImages/QxBroker.jpg";
+import OxBroker from "../FinanceImages/Qxbroker.jpg";
 import Alpha from "../FinanceImages/Alpha.png";
 import Manven from "../FinanceImages/Manven.webp";
 import Funder from "../FinanceImages/Funder.jpg";
