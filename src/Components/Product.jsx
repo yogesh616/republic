@@ -95,8 +95,8 @@ function Product() {
               <span className="text-[#05205c]">{selectedProduct.name}</span>
             </nav>
 
-            <div className="grid grid-cols-[100px_1fr] lg:grid-cols-[188px_1fr_358px] gap-y-2 gap-x-4 lg:gap-x-10 lg:mt-8 lg:mb-7 mt-3 mb-2 sm:px-4 py-10">
-              <div
+            <div className="grid grid-cols-[100px_1fr] lg:grid-cols-[188px_1fr_358px] gap-y-2 gap-x-7 lg:gap-x-10 lg:mt-8 lg:mb-7 mt-3 mb-2 sm:px-4 py-10">
+              <a target="_blank" href={selectedProduct.url}
                 style={{ cursor: "pointer" }}
                 className="lg:row-[1/span_2] lg:w-[188px] lg:h-[188px] p-3 lg:p-6 flex items-center justify-center  rounded-full"
               >
@@ -107,10 +107,10 @@ function Product() {
                     width="140"
                     height="140"
                     decoding="async"
-                    className="gradient-border rounded scale-150"
+                    className="gradient-border rounded scale-x-[1.7] scale-y-[1.9]"
                   />
                 ) }
-              </div>
+              </a>
               <h1 className="text-[18px] md:text-[32px] leading-tight text-gradient flex items-center ">
                 {selectedProduct.name} Coupons And Discount Codes |{" "}
                 {formattedDate}

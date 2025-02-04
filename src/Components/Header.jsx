@@ -59,7 +59,8 @@ import Souled from "../FashionImages/Souled.png";
 import Uber from "../FashionImages/Uber.png";
 import Ola from "../FashionImages/Ola.png";
 import VidIQ from "../MarkingImages/VidIQ.png";
-import GetResponse from "../MarkingImages/GetResponse.jpg"
+import GetResponse from "../MarkingImages/GetResponse.jpg";
+import ByBit from "../FinanceImages/bybit.webp";
 const Header = () => {
   const [dropdownVisible, setDropdownVisible] = useState(null); // Tracks which category dropdown is open
   const [dropdownTimeout, setDropdownTimeout] = useState(null); // Tracks timeout for closing dropdown
@@ -234,6 +235,7 @@ const Header = () => {
         { name: "Pocket Option", image: Pocket, url: "https://p.finance/en/register/?utm_campaign=810886&utm_source=affiliate&utm_medium=sr&a=uKVRyGAjOpjzph&ac=50start&code=50START" },
         { name: "E8", image: E8, url: "https://e8markets.com/a/B2CD097E" },
         { name: "Phemex", image: Phemex, url: "https://phemex.com/account/referral/invite-friends-entry?referralCode=G5L2W2" },
+        { name: "ByBit", image : ByBit, url: "https://www.bybitglobal.com/en/sign-up?affiliate_id=48538&group_id=76427&group_type=1"}
       ],
     },
     {
