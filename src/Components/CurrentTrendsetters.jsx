@@ -24,7 +24,7 @@ function CurrentTrendsetters() {
       referral_url:
         "https://www.amazon.in/Home-Improvement/b?ie=UTF8&node=4286640031&linkCode=ll2&tag=rajvansh017-21&linkId=6ea6043bcd0d23119ef45a1f49022ca7&language=en_IN&ref_=as_li_ss_tl",
       image: AmazonFresh,
-      url: "https://www.amazon.in/",
+      url: "https://www.amazon.in/Home-Improvement/b?ie=UTF8&node=4286640031&linkCode=ll2&tag=rajvansh017-21&linkId=6ea6043bcd0d23119ef45a1f49022ca7&language=en_IN&ref_=as_li_ss_tl",
     },
     {
       name: "Amazon Seo",
@@ -34,7 +34,7 @@ function CurrentTrendsetters() {
       referrral_url:
         "https://www.amazon.in/gp/browse.html?node=1355016031&linkCode=ll2&tag=rajvansh017-21&linkId=02e1628fb0e048bbb1aa035446cfe14c&language=en_IN&ref_=as_li_ss_tl",
       image: AmazonSeoAmazonGiftCard,
-      url: "https://www.amazon.in/",
+      url: "https://www.amazon.in/gp/browse.html?node=1355016031&linkCode=ll2&tag=rajvansh017-21&linkId=02e1628fb0e048bbb1aa035446cfe14c&language=en_IN&ref_=as_li_ss_tl",
     },
     {
       name: "Amazon Shopping Gift",
@@ -44,7 +44,7 @@ function CurrentTrendsetters() {
       referral_url:
         "https://www.amazon.in/Home-Kitchen/b?ie=UTF8&node=976442031&linkCode=ll2&tag=rajvansh017-21&linkId=0287d720a3abad43e326d8bdee813f44&language=en_IN&ref_=as_li_ss_tl",
       image: AmazonShoppingGiftVoucher,
-      url: "https://www.amazon.in/",
+      url: "https://www.amazon.in/Home-Kitchen/b?ie=UTF8&node=976442031&linkCode=ll2&tag=rajvansh017-21&linkId=0287d720a3abad43e326d8bdee813f44&language=en_IN&ref_=as_li_ss_tl",
     },
     {
       name: "Amazon Shopping",
@@ -54,7 +54,7 @@ function CurrentTrendsetters() {
       referral_url:
         "https://www.amazon.in/s?k=AC&crid=1NG3OC12U50PE&sprefix=ac%2Caps%2C254&linkCode=ll2&tag=rajvansh017-21&linkId=a06472739130ec28138e299a878bdaff&language=en_IN&ref_=as_li_ss_tl",
       image: AmazonShoppingVoucher,
-      url: "https://www.amazon.in/",
+      url: "https://www.amazon.in/s?k=AC&language=en_IN&crid=1NG3OC12U50PE&linkCode=ll2&linkId=a06472739130ec28138e299a878bdaff&sprefix=ac%2Caps%2C254&tag=rajvansh017-21&ref=as_li_ss_tl",
     },
     {
       name: "Tata Cliq",
@@ -63,7 +63,7 @@ function CurrentTrendsetters() {
       description: "",
       referral_url: "https://bitli.in/r5o7m0c",
       image: TataCliq,
-      url: "https://www.tatacliq.com/"
+      url: "https://bitli.in/r5o7m0c"
     },
     {
       name: "Flipkart",
@@ -72,7 +72,7 @@ function CurrentTrendsetters() {
       description: "",
       referral_url: "",
       image: FlipkartGiftCard,
-      url: "https://www.flipkart.com/",
+      url: "https://fktr.in/yFyWnq5",
     },
     {
       name: "Myntra",
@@ -81,7 +81,7 @@ function CurrentTrendsetters() {
       description: "",
       referral_url: "https://myntr.it/i4LuZh2",
       image: Myntra_Gift_Card,
-      url: "https://www.myntra.com/"
+      url: "https://myntr.it/i4LuZh2"
     },
     {
       name: "Nykaa",
@@ -90,7 +90,7 @@ function CurrentTrendsetters() {
       description: "Get Upto 40% Off on Bestsellers",
       referral_url: "https://bitli.in/Az3SKj9",
       image: Nykaa,
-      url: "https://www.nykaa.com/",
+      url: "https://bitli.in/Az3SKj9",
     },
   ];
   return (

@@ -43,7 +43,7 @@ import BingX from "../FinanceImages/BingX.png";
 import Bitget from "../FinanceImages/Bitget.png";
 import Weex from "../FinanceImages/Weex.png";
 import Bitvavo from "../FinanceImages/Bitvavo.png";
-import OxBroker from "../FinanceImages/OxBroker.png";
+import OxBroker from "../FinanceImages/QxBroker.jpg";
 import Alpha from "../FinanceImages/Alpha.png";
 import Manven from "../FinanceImages/Manven.webp";
 import Funder from "../FinanceImages/Funder.jpg";
@@ -181,7 +181,7 @@ const Header = () => {
           referral_url:
             "https://www.amazon.in/s?k=AC&crid=1NG3OC12U50PE&sprefix=ac%2Caps%2C254&linkCode=ll2&tag=rajvansh017-21&linkId=a06472739130ec28138e299a878bdaff&language=en_IN&ref_=as_li_ss_tl",
           image: AmazonShoppingVoucher,
-          url: "https://www.amazon.in/",
+          url: "https://www.amazon.in/gp/browse.html?node=1355016031&linkCode=ll2&tag=rajvansh017-21&linkId=02e1628fb0e048bbb1aa035446cfe14c&language=en_IN&ref_=as_li_ss_tl",
         },
         {
           name: "Flipkart",
@@ -190,7 +190,7 @@ const Header = () => {
           description: "",
           referral_url: "",
           image: FlipkartGiftCard,
-          url: "https://www.flipkart.com/",
+          url: "https://fktr.in/yFyWnq5",
         },
         {
           name: "Nykaa",
@@ -199,9 +199,9 @@ const Header = () => {
           description: "Get Upto 40% Off on Bestsellers",
           referral_url: "https://bitli.in/Az3SKj9",
           image: Nykaa,
-          url: "https://www.nykaa.com/",
+          url: "https://bitli.in/Az3SKj9",
         },
-        { name: "AJIO", image: AjioCard, url: "https://www.ajio.com/" },
+        { name: "AJIO", image: AjioCard, url: "https://ajiio.in/00GkFH5" },
       ],
     },
     {
@@ -209,31 +209,31 @@ const Header = () => {
       icon: '<i class="fa-solid fa-user-doctor"></i>',
       subcategories: [
         { name: "The Body Shop", image: BodyShop, url: "https://www.thebodyshop.in/" },
-        { name: "Mama Earth", image: mamaearth, url: "https://mamaearth.in/" },
-        { name: "The Man Company", image: Man, url: "https://www.themancompany.com/" },
-        { name: "Bombay Shaving Company", image: BombayShaving, url: "https://www.bombayshavingcompany.com/" },
-        { name: "Wow Skin Care", image: WowSkin, url: "https://www.wowskinscience.com/" },
+        { name: "Mama Earth", image: mamaearth, url: "https://bitli.in/lEpvz65" },
+        { name: "The Man Company", image: Man, url: "https://bitli.in/gB7SHP4" },
+        { name: "Bombay Shaving Company", image: BombayShaving, url: "https://bitli.in/PHqrVj9" },
+        { name: "Wow Skin Care", image: WowSkin, url: "https://bitli.in/m0r5pT3" },
       ],
     },
     {
-      label: "Finance/Crypto",
+      label: "Courses",
       icon: '<i class="fa-solid fa-coins"></i>',
       subcategories: [
-        { name: "Binance", image: Binance, url: "https://www.binance.com/en" },
-        { name: "KuCoin", image: Kucoin, url: "https://www.kucoin.com/" },
-        { name: "MEXC", image: Mexc, url: "https://www.mexc.com/" },
-        { name: "BingX", image: BingX, url: "https://bingx.com/en/" },
-        { name: "Bitget", image: Bitget, url: "https://www.bitget.com/" },
+        { name: "Binance", image: Binance, url: "https://accounts.binance.com/register?ref=TOR4GBZF" },
+        { name: "KuCoin", image: Kucoin, url: "https://www.kucoin.com/r/af/rMMFZ8U" },
+        { name: "MEXC", image: Mexc, url: "https://www.mexc.com/register?inviteCode=mexc-SPOT50" },
+        { name: "BingX", image: BingX, url: "https://bingx.pro/invite/UAIMID/" },
+        { name: "Bitget", image: Bitget, url: "https://www.bitget.com/expressly?channelCode=ahtq&vipCode=5u8c&languageType=0" },
         { name: "Weex", image: Weex, url: "https://weex.info/en" },
         { name: "Bitvavo", image: Bitvavo, url: "https://bitvavo.com/en" },
         { name: "QX Broker", image: OxBroker, url: "https://qxbroker.com/en" },
         { name: "Alpha Capital", image: Alpha, url: "https://alphacapitalgroup.uk/" },
         { name: "Maven Trading", image: Manven, url: "https://maventrading.com/" },
-        { name: "Funder Pro", image: Funder, url: "https://funderpro.com/" },
-        { name: "Safe Pal", image: SafePal, url: "https://safepal.com/en/" },
-        { name: "Pocket Option", image: Pocket, url: "https://pocketoption.com/en" },
-        { name: "E8", image: E8, url: "https://e8markets.com/" },
-        { name: "Phemex", image: Phemex, url: "https://phemex.com/" },
+        { name: "Funder Pro", image: Funder, url: "https://funderpro.cxclick.com/visit/?bta=36023&brand=funderpro" },
+        { name: "Safe Pal", image: SafePal, url: "https://www.safepal.com/store/s1?ref=ogjhyje" },
+        { name: "Pocket Option", image: Pocket, url: "https://p.finance/en/register/?utm_campaign=810886&utm_source=affiliate&utm_medium=sr&a=uKVRyGAjOpjzph&ac=50start&code=50START" },
+        { name: "E8", image: E8, url: "https://e8markets.com/a/B2CD097E" },
+        { name: "Phemex", image: Phemex, url: "https://phemex.com/account/referral/invite-friends-entry?referralCode=G5L2W2" },
       ],
     },
     {
@@ -243,7 +243,7 @@ const Header = () => {
         { name: "Shoppers Stop", image: Shoppers, url: "https://www.shoppersstop.com/home" },
         { name: "WildCraft", image: Wildcraft, url: "https://wildcraft.com/" },
         { name: "The Souled Store", image: Souled, url: "https://www.thesouledstore.com/" },
-        { name: "XYXX", image: Xyxx, url: "#" },
+        { name: "XYXX", image: Xyxx, url: "	https://bitli.in/tHjQwNr" },
         { name: "SareesKart", image: SareesKart, url: "https://sareekart.co/" },
         { name: "Ola", image: Ola, url: "https://www.olacabs.com/" },
         { name: "Uber", image: Uber, url: "https://www.uber.com/in/en/" },
@@ -254,8 +254,8 @@ const Header = () => {
       label: "Marketing",
       icon: '<i class="fa-solid fa-chart-simple"></i>',
       subcategories: [
-        { name: "Get Response", image: GetResponse, url: "https://www.getresponse.com/" },
-        { name: "Vid IQ", image: VidIQ, url: "https://www.getresponse.com/" },
+        { name: "Get Response", image: GetResponse, url: "https://www.getresponse.com?a=dmvf67vxem" },
+        { name: "Vid IQ", image: VidIQ, url: "https://vidiq.com/NitinRajvansh" },
       ],
     },
   ];
