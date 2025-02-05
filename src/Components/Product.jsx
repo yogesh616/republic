@@ -107,7 +107,7 @@ function Product() {
                     width="140"
                     height="140"
                     decoding="async"
-                    className="gradient-border rounded scale-x-[1.7] scale-y-[1.9]"
+                    className="gradient-border rounded scale-x-[1.7] scale-y-[1.7]"
                   />
                 ) }
               </a>
